@@ -14,5 +14,6 @@ int findDuplicate(vector<int> &arr, int n){
 		}
 	}
 
-	return ans;
+	 return ans;
 }
+
